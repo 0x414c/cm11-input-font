@@ -35,15 +35,81 @@
             <file>InputSansNarrow-ThinItalic.ttf</file>
         </fileset>
     </family>
-	
-	<family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-medium</name>
+        </nameset>
+        <fileset>
+            <file>InputSansNarrow-Medium.ttf</file>
+            <file>InputSansNarrow-MediumItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-black</name>
+        </nameset>
+        <fileset>
+            <file>InputSansNarrow-Black.ttf</file>
+            <file>InputSansNarrow-BlackItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-condensed</name>
+        </nameset>
+        <fileset>
+            <file>InputSansCondensed-Regular.ttf</file>
+            <file>InputSansCondensed-Bold.ttf</file>
+            <file>InputSansCondensed-Italic.ttf</file>
+            <file>InputSansCondensed-BoldItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-condensed-light</name>
+        </nameset>
+        <fileset>
+            <file>InputSansCondensed-Light.ttf</file>
+            <file>InputSansCondensed-LightItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>serif</name>
+            <name>times</name>
+            <name>times new roman</name>
+            <name>palatino</name>
+            <name>georgia</name>
+            <name>baskerville</name>
+            <name>goudy</name>
+            <name>fantasy</name>
+            <name>ITC Stone Serif</name>
+        </nameset>
+        <fileset>
+            <file>InputSerifNarrow-Regular.ttf</file>
+            <file>InputSerifNarrow-Bold.ttf</file>
+            <file>InputSerifNarrow-Italic.ttf</file>
+            <file>InputSerifNarrow-BoldItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
         <nameset>
             <name>monospace</name>
+            <name>sans-serif-monospace</name>
+            <name>serif-monospace</name>
+            <name>monaco</name>
+            <name>courier</name>
+            <name>courier new</name>
         </nameset>
         <fileset>
             <file>InputMonoNarrow-Regular.ttf</file>
-			<file>InputMonoNarrow-Medium.ttf</file>
-			<file>InputMonoNarrow-Bold.ttf</file>
+            <file>InputMonoNarrow-Bold.ttf</file>
         </fileset>
     </family>
 </familyset>
